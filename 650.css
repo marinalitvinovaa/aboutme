@@ -1,0 +1,20 @@
+@media (max-width: 650px) {
+  .info {
+    display: block;
+    text-align: center;
+    margin: 20px;
+    margin-top: 5px;
+    padding: 20px;
+  }
+  .message textarea,
+  .message label {
+    margin-left: 0;
+  }
+
+  img {
+    margin-bottom: 10px;
+  }
+  .btn {
+    width: 312px;
+  }
+}
